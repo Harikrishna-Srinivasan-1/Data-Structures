@@ -49,7 +49,7 @@
    * Provides methods to manipulate linked list elements and perform common operations.
    */
   template <typename A>
-  class singly_linked_list : public linkedlist<A>
+  class singly_linked_list: public linkedlist<A>
   {
       // ...
   };
